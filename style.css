@@ -1,0 +1,67 @@
+.topbar{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(191, 255, 255);
+    border:2px solid rgb(255, 185, 185);
+    font-size: x-large
+}
+h2{
+    font-size:xx-large;
+}
+ul{
+    font-size:x-large ;
+    line-height: 70px;
+}
+.margin{
+    display:inline-flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border:3px solid rgb(218, 218, 218);
+    width: 50%;
+    background-color: rgb(252, 246, 237);
+}
+.marg{
+    margin-left: 5%;
+    margin-right: 4%;
+}
+.list{
+    display:flex;
+}
+.trip{
+    display:flex;
+    justify-content: center;
+}
+p{
+    font-size: x-large;
+}
+.dip{
+    display:inline-block;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+.Y{
+    display:flex;
+    justify-content: center;
+}
+.Crane{
+    display: flex;
+}
+.p{
+    margin-left: 5%;
+    margin-right: 7%;
+}
+.Crane img[src="images/Crane.jpg"]{
+    border: 2px solid rgb(255, 217, 217);
+}
+.Yes{
+    display:flex;
+    justify-content:center;
+}
+.Gallery img{
+    width:20%;
+    margin-left: 2% ;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    border: 1px solid black
+}
+
